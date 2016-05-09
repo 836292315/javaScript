@@ -1,2 +1,2 @@
 # javaScript
-javaScript的相关任务
+the second phase of ife.
